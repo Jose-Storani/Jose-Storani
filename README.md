@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-<h1 align="center">Hi, im Jose </h1>
 
 
 ---

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div id="header" align="center">
+
 <h1 align="center">Hi, im Jose </h1>
-</div>
+
 
 ---
 

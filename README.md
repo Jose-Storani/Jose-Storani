@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1 align="center">Hi, im Jose 🎇 </h1>
-<h4 align="center"> I am a passionate full stack web developer from Argentina with extensive experience in building web applications and websites. I am dedicated to creating innovative and user-centered solutions, and strive to deliver an exceptional experience both technically and in terms of customer satisfaction </h4>
+<h4 align="center"> I am a passionate web developer from Argentina with extensive experience in building web applications and websites. I am dedicated to creating innovative and user-centered solutions, and strive to deliver an exceptional experience both technically and in terms of customer satisfaction </h4>
 </div>
 
 

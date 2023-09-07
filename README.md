@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on developing ecommerce applications, with a focus on RESTful APIs.
 
-- 🌱 I’m currently learning **Nest.js and Docker**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 You can find me: [Linkedin](https://www.linkedin.com/in/jose-storani/)
 

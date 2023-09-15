@@ -27,12 +27,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactJS" alt="reactJS" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="nodeJS" alt="nodeJS" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongoDB" alt="mongoDB" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" title="handlebars" alt="handlebars" width="40" height="40" />
+    
   </div>
 </div>
 
